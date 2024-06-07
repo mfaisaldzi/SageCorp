@@ -1,85 +1,79 @@
-Shop information
+Shop Information:
 
-Baker:
-Mr. Luqman Al Hakim (Exquisite 3-star Michelin star bakery chef)
+Shop Owner:
+Mr. Faisal Arisson (Renowned Cat Enthusiast and Certified Feline Behaviorist)
 
-Time open:
-Everyday from 9am to 6pm (Except wednesday)
+Operating Hours:
+Weekdays from 9 am to 6 pm (Closed on Weekend)
 
-Order and delivery service chatbot link:
-(https://belgian-delights-9t474k5.gamma.site/)
+Order and Delivery Service Link:
+Order Here
 
 Location:
-Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
-State/province/area - Selangor
-Zip code - 42600
+Seksyen 7, Shah Alam, Selangor
+Zip Code - 40000
 
 Phone Number:
-+60 11-3901 8832
++60 16-632 5539
 
-Cake flavours:
-Chocolate (Available)
-Vanilla (Available)
-Strawberry (Unavailable)
-Blueberry (Unavailable)
+Cat Breeds Available:
 
-Icing flavours:
-Chocolate (Available)
-Vanilla (UnAvailable)
-Mint (Available)
-Strawberry (Available)
-Blueberry (Available)
+British Shorthair (Available)
+Siamese (Available)
+Maine Coon (Unavailable)
+Persian (Unavailable)
+Accessories and Pricing:
 
-Sizes & Pricing:
-Round cake 6 inch diameter - 30RM (40RM with icing)
-Round cake 8 inch diameter - 50RM (62RM with icing)
-Round cake 10 inch diameter - 80RM (95RM with icing)
-Round cake 12 inch diameter - 115RM (132RM with icing)
-Round cake 14 inch diameter - 155RM (175RM with icing)
-Round cake 16 inch diameter - 200RM (220RM with icing)
-Square cake 6x6 inch size - 40RM (52RM with icing)
-Square cake 8x8 inch size - 70RM (88RM with icing)
-Square cake 10x10 inch size - 110RM (140RM with icing)
-Square cake 12x12 inch size - 155RM (195RM with icing)
-Rectangle cake 6x8 inch size - 50RM (65RM with icing)
-Rectangle cake 8x12 inch size - 100RM (125RM with icing)
-Rectangle cake 12x16 inch size - 200RM (240RM with icing)
-Height is 4 inch for all cakes
+Cat Bed:
+Small (RM20)
+Medium (RM35)
+Large (RM50)
+Cat Tree:
+Small (RM150)
+Medium (RM250)
+Large (RM400)
+Litter Box:
+Basic (RM30)
+Covered (RM50)
+Food Bowl:
+Single (RM10)
+Double (RM15)
+Scratching Post:
+Basic (RM25)
+Deluxe (RM50)
+Toys:
+Ball (RM5)
+Feather Wand (RM10)
+Laser Pointer (RM15)
+Ordering Process:
 
-Ordering process:
-Specify cake tier number (accept 1 to 3)
-For each cake, specify which cake and icing flavour
-If cake tier is more than 1, lower cake must have bigger size than upper ones
-Cake tier cannot have different shapes
+Specify the breed of the cat or the accessory you want.
+For accessories, specify the size if applicable.
+Orders can be made via phone/chatbot or by visiting the store.
+Ingredients in Cat Food:
 
-Ingredients:
-All-purpose flour, granulated sugar, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract. (Made from scratch, all locally sourced ingredients)
-
+Chicken meal, brown rice, barley, peas, chicken fat, dried beet pulp, fish meal, flaxseed. (Made with premium, locally sourced ingredients)
 Programs:
-No cake workshop or decoration classes
-No loyalty program (will soon be implemented)
-No refunds and returns
 
+No pet training or grooming classes.
+No loyalty program (will be implemented soon).
+No refunds and returns on purchased pets or accessories.
 Promotions:
-[Chocolate Spree] Chocolate cake 20% off (End at 29th March)
 
+[Whisker Wednesday] 10% off on all cat trees every Wednesday (Ends at 29th March)
 Tax:
+
 10% Government tax
+Cat Care:
 
-Icing:
-Icing is applied around each cake (except bottom part)
+Cats are regularly groomed and checked by a veterinarian.
+No vegan/gluten-free food options for cats.
+All orders require an 80% deposit of the total price.
+We do not accept any form of cash payments.
+For any order issues, please contact customer service via the provided phone number.
+Other Products:
 
-Others:
-No vegan/free gluten options
-Order can be made via phone/chatbot (or coming to place)
-Deposit is 80% of the total price
-Do not accept any form of cash
-Tasting appointment can just come to the place directly
-Doesn't accept order issues, if any issue on orders, tell them to contact customer service via phone number.
-
-Other products:
-Candle (2RM for each candle)
-Lighter for candle (3RM)
-Plastic plates (2RM per 12 plates)
-Plastic utensils (spoon & fork) 1RM per tool
-Plastic knife to cut cake (2.5RM)
+Collar (RM5 each)
+Catnip (RM3 per packet)
+Litter Scoop (RM2 each)
+Carrier (RM50)
